@@ -1,0 +1,1 @@
+#在vue中使用mediaDevices.getUserMedia实现拍照预览，获取图片base64链接，base64转文件
